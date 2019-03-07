@@ -29,11 +29,7 @@ public class Overrrii {
 					System.out.println("a");
 				}
 			}
-		 class d{
-				void show() {
-					System.out.println("a");
-				}
-			}
+		 
 		 
 	}
 
