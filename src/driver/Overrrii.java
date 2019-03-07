@@ -24,7 +24,11 @@ public class Overrrii {
 		 void show () {
 			System.out.println("b");
 		}
-		 
+		 class c{
+				void show() {
+					System.out.println("a");
+				}
+			}
 		 
 		 
 	}
