@@ -34,11 +34,7 @@ public class Overrrii {
 					System.out.println("a");
 				}
 			}
-		 class e{
-				void show() {
-					System.out.println("a");
-				}
-			}
+		 
 	}
 
 
